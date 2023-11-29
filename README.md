@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @santubenia
-- 👀 I’m interested in creating in creative way
-- 🌱 I’m currently learning web technologies and application of programming language 
-- 💞️ I’m looking to collaborate on creating initial business ideas 
+- 👀 I’m interested in creating in a creative way.
+- 🌱 I’m currently learning web technologies and application of programming language among with general communication skills.
+- 💞️ I’m looking to collaborate on creating initial business ideas.
 - 📫 You can send me mail 💌 at santubenia@yahoo.com
+- 🌐 santubenia.godaddysites.com
